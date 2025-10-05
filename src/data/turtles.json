@@ -1,0 +1,385 @@
+{
+    "key_title": "30 Turtle Species",
+    "organisms": {
+        "Soft_Shell_Turtle": {
+            "name": "Malayan Softshell Turtle (Amyda cartilaginea)",
+            "description": "Flat, smooth, leathery shell (no scutes) and long, pointed snout.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dogania_subplana_109822698.jpg"
+        },
+        "Red_Eared_Slider": {
+            "name": "Red-Eared Slider (Trachemys scripta elegans)",
+            "description": "Common invasive turtle; distinct red stripe behind each eye.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Trachemys_scripta_troostii_qtl2.jpg"
+        },
+        "Malayan_Box_Turtle": {
+            "name": "Malayan Box Turtle (Cuora amboinensis)",
+            "description": "High-domed shell with hinged plastron allowing full closure.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Amboinensis5.jpg"
+        },
+        "Striped_Neck_Turtle": {
+            "name": "Striped-Neck Turtle (Mauremys sinensis)",
+            "description": "Prominent yellow/green stripes along head and neck.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mauremys_sinensis_156816559.jpg"
+        },
+        "Painted_Terrapin": {
+            "name": "Painted Terrapin (Batagur borneoensis)",
+            "description": "Pale head with a black stripe from snout through eyes.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Painted_Terrapin_%28Batagur_borneoensis%29_%287781281590%29.jpg"
+        },
+        "Pond_Turtle": {
+            "name": "Reeves' Pond Turtle (Mauremys reevesii)",
+            "description": "Small turtle with three vertical keels on carapace.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mauremys_reevesi_%282%29.jpg"
+        },
+        "Snapping_Turtle": {
+            "name": "Common Snapping Turtle (Chelydra serpentina)",
+            "description": "Large, rough shell, powerful jaws, long tail.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Common_Snapping_Turtle.jpg"
+        },
+        "Spiny_Turtle": {
+            "name": "Spiny Turtle (Heosemys spinosa)",
+            "description": "Distinct serrated or spiky edges on shell, especially in juveniles.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Heosemys_spinosa_390638960.jpg"
+        },
+        "Asian_Leaf_Turtle": {
+            "name": "Asian Leaf Turtle (Cyclemys dentata)",
+            "description": "Flat, broad, jagged shell resembling a dried leaf.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cycle_denta_100207-0641_ipb.jpg"
+        },
+        "Diamondback_Terrapin": {
+            "name": "Diamondback Terrapin (Malaclemys terrapin)",
+            "description": "Carapace scutes with concentric diamond patterns.",
+            "image_url": "Diamondback Terrapin"
+        },
+        "Yellow_Headed_Temple_Turtle": {
+            "name": "Yellow-Headed Temple Turtle (Heosemys annandalii)",
+            "description": "Very large turtle with pale yellowish head.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/2024-03-29-Heosemys_annandalii-3422.jpg"
+        },
+        "Asian_Brown_Tortoise": {
+            "name": "Asian Brown Tortoise (Manouria emys)",
+            "description": "Large terrestrial tortoise with domed brown shell.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Manouria_emys.jpg"
+        },
+        "Black_Giant_Tortoise": {
+            "name": "Black Giant Tortoise (Manouria impressa)",
+            "description": "Rare tortoise with golden-brown to black shell.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Manouria_impressa_specimen.jpg"
+        },
+        "Burmese_Roofed_Turtle": {
+            "name": "Burmese Roofed Turtle (Batagur trivittata)",
+            "description": "Critically endangered; roof-shaped male shell.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Burmese_roofed_turtles_%28Batagur_trivittata%29.jpg"
+        },
+        "Indian_Roofed_Turtle": {
+            "name": "Indian Roofed Turtle (Pangshura tecta)",
+            "description": "Carapace with a raised ridge resembling a roof.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Indian_roofed_turtle_%28Pangshura_tecta%29.jpg"
+        },
+        "Asian_Giant_Softshell": {
+            "name": "Asian Giant Softshell (Pelochelys cantorii)",
+            "description": "Massive softshell with broad carapace, short snout.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pelochelys_cantorii.jpg"
+        },
+        "Narrow_Headed_Softshell": {
+            "name": "Narrow-Headed Softshell (Chitra indica)",
+            "description": "Flat, broad, long-nosed softshell turtle.",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/8/84/Dudhwalive_chitra.JPG"
+        },
+        "Chinese_Big_Headed_Turtle": {
+            "name": "Chinese Big-Headed Turtle (Platysternon megacephalum)",
+            "description": "Small body, disproportionately large head, long tail.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Platysternon_megacephalum_MHNT_CHE_1992-19.jpg"
+        },
+        "Black_Pond_Turtle": {
+            "name": "Black Pond Turtle (Geoclemys hamiltonii)",
+            "description": "Dark shell with yellow star-like radiating scute patterns.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Geoclemys_hamiltonii_Biswanath_01.jpg"
+        },
+        "Indian_Star_Tortoise": {
+            "name": "Indian Star Tortoise (Geochelone elegans)",
+            "description": "Terrestrial tortoise with radiating star-like shell patterns.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Indian_star_tortoise_-_Houston_Zoo_-_cropped.jpg"
+        },
+        "Indian_Flap_Shell": {
+            "name": "Indian Flap-Shell Turtle (Lissemys punctata)",
+            "description": "Flattened softshell with movable flaps covering limbs.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Indian_Flap_Shell_Turtle_%2818632027400%29.jpg"
+        },
+        "Chinese_Softshell": {
+            "name": "Chinese Softshell Turtle (Pelodiscus sinensis)",
+            "description": "Small softshell with olive to brown leathery carapace.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Chinese_Softshell_Turtle_%28Pelodiscus_sinensis%29_4.jpg"
+        },
+        "Chinese_Pond_Turtle": {
+            "name": "Chinese Pond Turtle (Mauremys mutica)",
+            "description": "Yellow line from mouth to neck; smooth brown shell.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chinese_Pond_Turtle_%28Mauremys_reevesii%29.jpg"
+        },
+        "Burmese_Box_Turtle": {
+            "name": "Burmese Box Turtle (Cuora mouhotii)",
+            "description": "High-domed shell, strong keels, hinged plastron.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cuora_mouhotii_88505709.jpg"
+        },
+        "Four_Eyed_Turtle": {
+            "name": "Four-Eyed Turtle (Sacalia quadriocellata)",
+            "description": "Distinct eye-like spots at back of head.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sacalia_quadriocellata.jpg"
+        },
+        "Yellow_Pond_Turtle": {
+            "name": "Indian Black Turtle / Yellow Pond Turtle (Melanochelys trijuga)",
+            "description": "Dark shell, yellowish plastron with blotches.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cochin_black_turtle_%28Melanochelys_trijuga_coronata%29.jpg"
+        },
+        "Keeled_Box_Turtle": {
+            "name": "Keeled Box Turtle (Cuora mouhotii)",
+            "description": "Three sharp keels on carapace; terrestrial habits.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cuora_mouhotii_88505709.jpg"
+        },
+        "Elongated_Tortoise": {
+            "name": "Elongated Tortoise (Indotestudo elongata)",
+            "description": "Elongated shell, yellowish with dark patches.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Elongated_Tortoise_%28Indotestudo_elongata%29_%287788501866%29.jpg"
+        },
+        "Asian_Forest_Tortoise": {
+            "name": "Asian Forest Tortoise (Manouria emys phayrei)",
+            "description": "Large brown forest tortoise, subspecies of Asian Brown.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Asian_Forest_Tortoise_at_Chester_Zoo.jpg"
+        }
+    },
+    "key": {
+        "question1": {
+            "question": "1. Is the carapace hard (scutes) or soft (leathery)?",
+            "options": [
+                {
+                    "choice": "A. Hard scutes",
+                    "next_id": "question2"
+                },
+                {
+                    "choice": "B. Soft leathery",
+                    "next_id": "question2_soft"
+                }
+            ]
+        },
+        "question2_soft": {
+            "question": "2. Which type of softshell turtle?",
+            "options": [
+                {
+                    "choice": "C. Small/medium with pointed snout",
+                    "next_id": "Soft_Shell_Turtle"
+                },
+                {
+                    "choice": "D. Large broad softshell",
+                    "next_id": "Asian_Giant_Softshell"
+                },
+                {
+                    "choice": "E. Very flat, long narrow snout",
+                    "next_id": "Narrow_Headed_Softshell"
+                },
+                {
+                    "choice": "F. Flaps covering limbs",
+                    "next_id": "Indian_Flap_Shell"
+                },
+                {
+                    "choice": "G. Small olive softshell",
+                    "next_id": "Chinese_Softshell"
+                }
+            ]
+        },
+        "question2": {
+            "question": "2. Is the shell smooth/oval or rough/jagged?",
+            "options": [
+                {
+                    "choice": "H. Smooth/oval",
+                    "next_id": "question3"
+                },
+                {
+                    "choice": "I. Rough/jagged",
+                    "next_id": "question6"
+                }
+            ]
+        },
+        "question3": {
+            "question": "3. Red patch behind eyes?",
+            "options": [
+                {
+                    "choice": "J. Yes",
+                    "next_id": "Red_Eared_Slider"
+                },
+                {
+                    "choice": "K. No",
+                    "next_id": "question4"
+                }
+            ]
+        },
+        "question4": {
+            "question": "4. Hinged plastron allows full closure?",
+            "options": [
+                {
+                    "choice": "L. Yes",
+                    "next_id": "Malayan_Box_Turtle"
+                },
+                {
+                    "choice": "M. No",
+                    "next_id": "question5"
+                }
+            ]
+        },
+        "question5": {
+            "question": "5. Stripes along head/neck?",
+            "options": [
+                {
+                    "choice": "N. Prominent bright stripes",
+                    "next_id": "Striped_Neck_Turtle"
+                },
+                {
+                    "choice": "O. No bright stripes",
+                    "next_id": "question5b"
+                }
+            ]
+        },
+        "question5b": {
+            "question": "5b. Head pale with dark stripe OR shell keeled?",
+            "options": [
+                {
+                    "choice": "P. Pale head + eye stripe",
+                    "next_id": "Painted_Terrapin"
+                },
+                {
+                    "choice": "Q. Three carapace keels",
+                    "next_id": "Pond_Turtle"
+                },
+                {
+                    "choice": "R. Smooth yellow line from mouth to neck",
+                    "next_id": "Chinese_Pond_Turtle"
+                },
+                {
+                    "choice": "S. None of above - check river turtles",
+                    "next_id": "question10"
+                }
+            ]
+        },
+        "question6": {
+            "question": "6. Large prehistoric-looking turtle with long tail?",
+            "options": [
+                {
+                    "choice": "T. Yes",
+                    "next_id": "Snapping_Turtle"
+                },
+                {
+                    "choice": "U. No",
+                    "next_id": "question7"
+                }
+            ]
+        },
+        "question7": {
+            "question": "7. Carapace edges spiny/serrated?",
+            "options": [
+                {
+                    "choice": "V. Spiny edges",
+                    "next_id": "Spiny_Turtle"
+                },
+                {
+                    "choice": "W. Not spiny",
+                    "next_id": "question8"
+                }
+            ]
+        },
+        "question8": {
+            "question": "8. Shell resembles leaf, patterns, or high-domed?",
+            "options": [
+                {
+                    "choice": "X. Leaf-like jagged shell",
+                    "next_id": "Asian_Leaf_Turtle"
+                },
+                {
+                    "choice": "Y. Diamond concentric patterns",
+                    "next_id": "Diamondback_Terrapin"
+                },
+                {
+                    "choice": "Z. Yellow star-like scutes",
+                    "next_id": "Black_Pond_Turtle"
+                },
+                {
+                    "choice": "AA. Radiating star tortoise",
+                    "next_id": "Indian_Star_Tortoise"
+                },
+                {
+                    "choice": "AB. Very high-domed, strongly keeled",
+                    "next_id": "Burmese_Box_Turtle"
+                },
+                {
+                    "choice": "AC. Three sharp keels, terrestrial",
+                    "next_id": "Keeled_Box_Turtle"
+                },
+                {
+                    "choice": "AD. Distinct 'eye spots' on head",
+                    "next_id": "Four_Eyed_Turtle"
+                },
+                {
+                    "choice": "AE. Yellowish plastron with blotches",
+                    "next_id": "Yellow_Pond_Turtle"
+                },
+                {
+                    "choice": "AF. None of above - check other features",
+                    "next_id": "question11"
+                }
+            ]
+        },
+        "question9": {
+            "question": "9. Terrestrial tortoise (not aquatic)?",
+            "options": [
+                {
+                    "choice": "AG. Large domed brown shell",
+                    "next_id": "Asian_Brown_Tortoise"
+                },
+                {
+                    "choice": "AH. Golden-brown upland tortoise",
+                    "next_id": "Black_Giant_Tortoise"
+                },
+                {
+                    "choice": "AI. Elongated yellowish shell",
+                    "next_id": "Elongated_Tortoise"
+                },
+                {
+                    "choice": "AJ. Large forest tortoise subspecies",
+                    "next_id": "Asian_Forest_Tortoise"
+                }
+            ]
+        },
+        "question10": {
+            "question": "10. Endangered river turtles?",
+            "options": [
+                {
+                    "choice": "AK. Roof-shaped male shell",
+                    "next_id": "Burmese_Roofed_Turtle"
+                },
+                {
+                    "choice": "AL. Raised ridge roof-like shell",
+                    "next_id": "Indian_Roofed_Turtle"
+                },
+                {
+                    "choice": "AM. Very large temple turtle",
+                    "next_id": "Yellow_Headed_Temple_Turtle"
+                },
+                {
+                    "choice": "AN. None of above - check terrestrial tortoises",
+                    "next_id": "question9"
+                }
+            ]
+        },
+        "question11": {
+            "question": "11. Unusual head/tail proportions?",
+            "options": [
+                {
+                    "choice": "AO. Huge head, long tail",
+                    "next_id": "Chinese_Big_Headed_Turtle"
+                },
+                {
+                    "choice": "AP. Normal proportions - check tortoises",
+                    "next_id": "question9"
+                }
+            ]
+        }
+    }
+}
