@@ -36,7 +36,7 @@
     <div class="content-wrapper">
         <h1 class="page-header">About</h1>
         <p class="page-paragraph">Hey! Thanks for checking out our turtle identifier!</p>
-        <p class="page-paragraph">If you enjoyed this project, please leave a star on our <a href="https://github.com/ing-Studios-Web-Labs/turtleidentifier">GitHub repository</a>.</p>
+        <p class="page-paragraph">If you enjoyed this project, please leave a star on our <a href="https://github.com/ing-Studios-Web-Labs/turtleidentifier" target="_blank">GitHub repository</a>.</p>
         <p class="page-paragraph">You can download the turtle dataset by clicking the button below.</p>
         <md-outlined-button @click="downloadJSON()">Download dataset</md-outlined-button>
         <md-divider class="divider"></md-divider>
